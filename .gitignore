@@ -1,0 +1,4 @@
+general.log
+/static
+/media
+/Django_Project/settings/dev.py
